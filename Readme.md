@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Игорь Казанцев](https://up.htmlacademy.ru/javascript/16/user/633273).
-* Наставник: `Неизвестно`.
+* Наставник: `Полина Катышева.
 
 ---
 
